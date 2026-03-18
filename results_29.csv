@@ -1,0 +1,1366 @@
+Folder Path;traj.csv exists?;foodpatches_reviewed.mat exists?;traj.mat exists?;traj.mat empty?;Diagnosis of video;frames with zero worms;frames with one worm;frames with two or more worms;proportion of frames with multiple worms;final classification of the video
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;6255;27562;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190805_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;1588;33626;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;6662;4872;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101555_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;3991;31033;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105445_SmallPatches_C1-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM5;1;0;1;1;NO WORM;293;1153;33511;0.9586348942987098;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;12135;22887;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;6159;28948;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;8919;25983;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192159_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;232;34680;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104123_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;1472;33629;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM5;1;0;1;1;NO WORM;622;7732;26822;0.7625085285421879;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221122T192231_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;3865;31358;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;323;34698;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101555_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;5966;29008;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM6;1;0;1;1;NO WORM;16998;8147;1;3.9767756303189374e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;13923;20675;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193059_SmallPatches_C3-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T195638_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;482;1840;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104123_SmallPatches_C3-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T192159_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;1568;33341;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;417;34683;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;3015;31930;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195638_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;10730;24365;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1171;1994;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM6;1;0;1;1;NO WORM;241;4396;30282;0.8672069646897105;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221117T104123_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;6771;28375;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;312;33146;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112304_SmallPatches_C4-CAM4;1;0;1;1;NO WORM;5942;14455;12208;0.37442110105811993;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221012T130040_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;3713;24110;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101555_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;507;34543;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;1268;33747;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;14502;20512;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195557_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;4159;30933;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;3293;31847;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;2827;30627;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191711_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;1462;33565;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;22549;12338;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195638_SmallPatches_C3-CAM6;1;0;1;1;NO WORM;4873;18144;12039;0.3434219534459151;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;2522;32482;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102404_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;11513;23505;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;1302;33732;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T131806_SmallPatches_C4-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T110848_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;1041;33993;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;7120;28106;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102308_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;1205;33844;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210707_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;1825;33248;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200706_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;1495;33583;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;3246;23690;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191902_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;610;34465;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201801_SmallPatches_C3-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221121T204620_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;953;34185;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105413_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;1748;33229;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201332_SmallPatches_C2-CAM5;1;1;1;1;NO WORM;5843;29093;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM5;1;0;1;1;NO WORM;342;1;357;0.51;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM5;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T200335_SmallPatches_C6-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103134_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;5674;29397;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T110848_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;3374;31567;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102308_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;365;34639;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;1170;33875;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201332_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;3848;31168;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;354;410;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM8;1;0;1;1;NO WORM;4534;30506;4;0.0001141422212076247;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221117T105413_SmallPatches_C5-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221121T204620_SmallPatches_C3-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;3569;31670;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201801_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;1002;34164;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;1988;24985;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200706_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;3857;25530;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM1;1;0;1;1;NO WORM;440;34518;1;2.860493721216282e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221118T103541_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;834;34352;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105413_SmallPatches_C5-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193611_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;7709;27403;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;966;34140;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191303_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;13570;21689;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194416_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;4963;30119;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM5;1;0;1;1;NO WORM;288;5226;29400;0.8420690840350575;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221120T191902_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;2550;32532;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192239_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;2068;33075;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;620;34357;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;420;34676;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1120;33983;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194416_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1171;33930;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;2313;32652;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;4883;30248;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200721_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1848;33186;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;8731;26296;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103541_SmallPatches_C3-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;1515;33563;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113745_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1900;31991;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;3245;31746;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192239_SmallPatches_C3-CAM6;1;0;1;1;NO WORM;920;2762;31445;0.8951803456030973;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221125T232132_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;4437;30642;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;340;34678;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211445_SmallPatches_C4-CAM4;1;0;1;1;NO WORM;911;22795;11316;0.32311118725372623;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221110T193059_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;960;34060;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233330_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;2760;32358;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;3433;29123;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;941;34201;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191711_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;16406;17201;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;822;34216;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130040_SmallPatches_C2-CAM1;1;1;1;1;NO WORM;558;27532;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195557_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;4067;31049;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;7339;27707;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM8;1;0;1;1;NO WORM;531;2186;32404;0.9226388770251417;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;614;34585;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;21804;13019;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233330_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;3287;31814;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102404_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;1640;33386;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;269;34668;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211445_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;9338;8938;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;3833;31170;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195557_SmallPatches_C1-CAM5;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T131806_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;342;26440;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112304_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;2100;30485;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130040_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;514;27632;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105445_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;674;34249;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;1920;33111;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;32469;1474;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105445_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;8062;26857;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;13404;21632;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM7;1;0;1;1;NO WORM;478;7604;26939;0.7692241797778476;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;7113;28023;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192159_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;9458;25473;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;30860;4259;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192231_SmallPatches_C2-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;2127;33010;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193059_SmallPatches_C3-CAM6;1;0;1;1;NO WORM;423;30385;4175;0.11934368121659092;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221120T190805_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;7461;27773;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;4110;30943;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM6;1;0;1;1;NO WORM;629;28664;5891;0.16743406093678945;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T101555_SmallPatches_C3-CAM7;1;0;1;1;NO WORM;3762;31273;1;2.854207101267268e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;10443;24585;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;22595;11818;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193059_SmallPatches_C3-CAM1;1;0;1;1;NO WORM;5675;29318;2;5.715102157451065e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221117T104123_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;5800;29330;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;3259;31837;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192159_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;3133;18434;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;3377;29875;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1663;33307;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200721_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;9519;25502;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193611_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;403;34621;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203313_SmallPatches_C5-CAM6;1;0;1;1;NO WORM;5862;29132;1;2.8575510787255323e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221115T194416_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;3353;31636;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;19383;15447;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM3;1;0;1;1;NO WORM;802;8043;25372;0.7415027617850776;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;1088;1128;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;8984;26276;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM5;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T200335_SmallPatches_C6-CAM8;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T192239_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1553;33584;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;1249;33816;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T191303_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;2972;32256;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194416_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;3287;31778;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM1;1;0;1;1;NO WORM;2695;32348;2;5.706948209444999e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;2633;32359;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203313_SmallPatches_C5-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193611_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;3190;31822;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;2245;32868;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;329;34643;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;4678;30531;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102308_SmallPatches_C3-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T200335_SmallPatches_C6-CAM6;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103134_SmallPatches_C5-CAM5;1;0;1;1;NO WORM;1867;13090;20123;0.5736316989737742;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221016T201801_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;2739;32413;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;8163;27003;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;4313;30715;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200706_SmallPatches_C6-CAM4;1;0;1;1;NO WORM;890;9283;24825;0.7093262472141265;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;694;26264;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;3451;31612;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204620_SmallPatches_C3-CAM4;1;0;1;1;NO WORM;21134;8844;5187;0.14750462107208873;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T201332_SmallPatches_C2-CAM3;1;1;1;1;NO WORM;4908;30120;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200721_SmallPatches_C3-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T102358_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;7578;27523;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103134_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;6726;28108;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210707_SmallPatches_C3-CAM2;1;0;1;1;NO WORM;10977;24078;1;2.8525787311729804e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM6;1;0;1;1;NO WORM;5699;28867;45;0.0013001646875270868;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221110T110848_SmallPatches_C4-CAM5;1;0;1;1;NO WORM;284;2095;32569;0.9319274350463546;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T201332_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;5924;29035;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM4;1;0;1;1;NO WORM;367;221;206;0.2594458438287154;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221121T204620_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;16662;18490;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;4120;30955;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;1594;25296;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191902_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;23019;12071;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200706_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;6120;28971;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;6319;28743;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115009_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;12991;22030;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;748;34385;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113417_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;2576;32437;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM5;1;0;1;1;NO WORM;3328;3684;19013;0.730566762728146;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;494;34578;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105552_SmallPatches_C2-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;3525;25551;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112027_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;7213;27905;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115009_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;6128;28920;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;8384;26734;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;1954;24079;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203320_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;362;34637;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM5;1;0;1;1;NO WORM;925;21137;13053;0.3717214865442119;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221116T193622_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1694;33383;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;1308;33740;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;9601;25376;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193129_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;2854;32163;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;1075;33947;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;13187;21341;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;5736;13298;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;2629;32361;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113417_SmallPatches_C5-CAM8;1;0;1;1;NO WORM;384;113;34542;0.9858158052455835;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221120T190810_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;15713;19400;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112417_SmallPatches_C6-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;4060;30923;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203324_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;354;34639;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111254_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1343;32050;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113050_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;9178;25932;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115015_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;1197;33842;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T114101_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;1264;33756;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111506_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;8987;26210;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;10039;25020;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;427;34599;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115015_SmallPatches_C6-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T112411_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;4397;28181;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;5425;8565;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115657_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;5329;29854;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112417_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;9133;23419;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;711;34380;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;2961;32082;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114735_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;4348;29418;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;301;34656;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115015_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;1212;25882;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103022_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;988;22593;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T121358_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;6712;28376;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103528_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;6205;28842;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120808_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;5510;29543;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192204_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;1029;33876;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112417_SmallPatches_C6-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103022_SmallPatches_C4-CAM4;1;0;1;1;NO WORM;11187;23008;1;2.9243186337583345e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;2243;32728;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;2938;32097;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;603;34401;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114735_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;5983;27766;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203023_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;14040;20060;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T112001_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;608;34501;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101512_SmallPatches_C1-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T193607_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;4156;30869;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203320_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1231;33794;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;8983;26163;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193622_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;1824;33252;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;1335;33736;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193129_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;563;34423;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;6067;28956;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;6446;28605;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;1887;33136;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;3061;31965;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193622_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;7519;27516;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203320_SmallPatches_C6-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM4;1;0;1;1;NO WORM;891;34237;7;0.0001992315355059058;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM6;1;0;1;1;NO WORM;2551;32461;1;2.8560820266758062e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221121T120109_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;3325;31815;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;5100;29925;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;19331;15757;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112027_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;452;34650;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113417_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;444;34571;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;472;25598;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;800;34314;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;3273;31833;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105552_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;4225;30796;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;11989;23036;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115009_SmallPatches_C5-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;5756;29330;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193622_SmallPatches_C3-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;10513;15528;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T114735_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;609;33174;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;1157;33861;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103022_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;1475;33536;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192204_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;2047;32850;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193607_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;2152;32912;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120808_SmallPatches_C4-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T113043_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;26080;8948;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101512_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;2251;32754;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192204_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;3071;31808;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191616_SmallPatches_C1-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T114735_SmallPatches_C1-CAM5;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;23089;11856;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101512_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;338;34629;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203023_SmallPatches_C5-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T112001_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;488;34594;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103528_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;22281;12957;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190810_SmallPatches_C3-CAM4;1;0;1;1;NO WORM;544;1311;33269;0.9471871085297802;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T113043_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;1777;33331;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101512_SmallPatches_C1-CAM8;1;0;1;1;NO WORM;10524;24448;3;8.577555396711937e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221017T111506_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;1171;33924;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;5028;29163;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203324_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;5648;29355;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192204_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;1076;33838;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115657_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;9101;26038;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191616_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;7361;27560;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112417_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;14560;17821;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T114101_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;7840;27153;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111254_SmallPatches_C3-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T113050_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1222;33904;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113043_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;4586;30454;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111506_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;2096;33031;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190810_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;4681;30455;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111254_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;9121;24266;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115015_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;3651;31400;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113050_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;1438;33657;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112411_SmallPatches_C5-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;4140;30866;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193528_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;1018;34068;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM1;1;0;1;1;NO WORM;11196;18695;5202;0.14823469067905282;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM3;1;0;1;1;NO WORM;801;18594;14557;0.428752356267672;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T201543_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;3890;31064;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM6;1;0;1;1;NO WORM;1709;15367;17982;0.5129214444634606;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221011T191645_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;32838;2051;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;1747;33217;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111318_SmallPatches_C2-CAM5;1;1;1;1;NO WORM;694;32783;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;5837;29271;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114417_SmallPatches_C4-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;16893;18122;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193528_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;5654;29418;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM6;1;0;1;1;NO WORM;1836;33104;119;0.0033942782167203857;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221117T200328_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;2740;32410;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201431_SmallPatches_C4-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;631;34457;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120032_SmallPatches_C1-CAM7;1;0;1;1;NO WORM;17721;16107;1277;0.03637658453211793;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221126T114417_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;6047;28991;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232148_SmallPatches_C3-CAM1;1;0;1;1;NO WORM;6766;22238;6182;0.1756948786449156;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;854;34290;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T111318_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;6240;27227;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111939_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;9376;21372;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;576;34605;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;13236;21615;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205107_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;21890;13249;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232148_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;761;34410;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;4679;30386;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;4308;30748;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;995;34075;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;4218;30696;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205107_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;27679;7476;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM4;1;0;1;1;NO WORM;29577;3311;591;0.017652857014845126;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;980;34119;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;5635;29324;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205107_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;9353;25863;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM3;1;0;1;1;NO WORM;3111;29249;2662;0.07600936554165953;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;894;34193;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;6313;28736;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;7174;27773;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;3440;31641;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;5687;29411;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;360;34607;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;8768;26015;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;6456;28659;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201820_SmallPatches_C2-CAM4;1;0;1;1;NO WORM;556;2765;31907;0.9057283978653344;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;14523;20029;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113756_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;1903;33334;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204614_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;2811;32393;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115324_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;579;32906;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;2505;32498;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112033_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;3407;31194;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115324_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;348;33117;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130017_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;2963;25326;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203554_SmallPatches_C2-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221119T115002_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;10509;24491;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113756_SmallPatches_C3-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;2383;32616;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;495;34593;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195631_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;2063;33137;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130017_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;811;27406;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;3029;31983;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;475;27612;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210701_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;9209;5675;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111024_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;3889;31084;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113303_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;3372;31705;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131916_SmallPatches_C5-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T111530_SmallPatches_C2-CAM4;1;0;1;1;NO WORM;582;1522;33173;0.9403577401706494;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221012T130017_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;2816;25440;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115324_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;9569;23917;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113303_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;10688;24333;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131916_SmallPatches_C5-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T111024_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;265;34673;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;5627;19649;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;1858;33164;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T202949_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;26394;8579;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;3694;31357;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120032_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;8258;24799;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T205107_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1744;33372;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;17697;17495;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;486;34582;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;9720;25214;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;4267;30863;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205850_SmallPatches_C6-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;4222;30884;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;3404;31561;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;3929;30102;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;12562;14300;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;377;34547;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;828;34142;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM2;1;0;1;1;NO WORM;2011;14649;18389;0.5246654683443179;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;1384;33585;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;336;34609;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205850_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;1725;33345;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM2;1;0;1;1;NO WORM;710;3315;31202;0.8857410508984586;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T201431_SmallPatches_C4-CAM5;1;0;1;1;NO WORM;448;5113;29434;0.8410915845120731;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221121T205850_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;5839;29211;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM6;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;425;34602;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201543_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;5799;19741;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200328_SmallPatches_C5-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;1681;33390;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T111939_SmallPatches_C3-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;1041;33454;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;9732;25301;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103559_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;913;34035;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120032_SmallPatches_C1-CAM6;1;0;1;1;NO WORM;2842;28067;4197;0.11955221329687232;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM7;1;0;1;1;NO WORM;1656;3819;29681;0.8442655592217545;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221117T200328_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;1419;33779;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;8828;26174;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;1303;33820;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201431_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;618;34329;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232148_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;11417;23744;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120032_SmallPatches_C1-CAM1;1;0;1;1;NO WORM;5610;1295;28214;0.803382784247843;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T114417_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;11945;22801;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103559_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;14416;20410;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191645_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;3045;31852;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111318_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;4154;29282;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;2154;32933;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;22935;10739;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111939_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;5340;29752;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130017_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1190;27084;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM8;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T111024_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;4432;30514;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201803_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;9053;26187;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;10956;24075;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;971;27080;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192604_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;345;34673;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;2175;32770;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131916_SmallPatches_C5-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T113303_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;1007;33999;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111530_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;5405;29844;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131916_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;917;25944;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM5;1;0;1;1;NO WORM;585;27453;59;0.0020998683133430615;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221123T210701_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;1583;33527;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192604_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;795;34200;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T202949_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;354;34635;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T111024_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;331;34627;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T202949_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;10326;24676;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201820_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;7115;28046;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201803_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;2682;32521;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113756_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;3809;30809;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;4390;30597;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204614_SmallPatches_C2-CAM1;1;1;1;1;NO WORM;669;6919;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM2;1;0;1;1;NO WORM;3660;24397;7076;0.201406085446731;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T115324_SmallPatches_C4-CAM7;1;0;1;1;NO WORM;354;517;32606;0.9739821369895749;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T203554_SmallPatches_C2-CAM5;1;1;1;1;NO WORM;6686;28561;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201803_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;577;34560;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201820_SmallPatches_C2-CAM5;1;1;1;1;NO WORM;6136;29056;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;665;34286;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203554_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1263;33933;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112033_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;5744;29366;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;5884;19653;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195631_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;516;34640;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204614_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;2200;32952;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;5250;23591;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202208_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;3884;31292;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192717_SmallPatches_C5-CAM2;1;0;1;1;NO WORM;956;6486;27538;0.7872498570611778;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T195345_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;1255;33739;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;522;34449;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM5;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM7;1;0;1;1;NO WORM;18738;12508;3910;0.11121856866537717;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;10495;24622;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM2;1;0;1;1;NO WORM;525;7654;26949;0.7671657936688682;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T203157_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;7358;27644;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T203108_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;293;34692;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;4979;30008;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101612_SmallPatches_C2-CAM3;1;0;1;1;NO WORM;431;31711;2934;0.08364693807731782;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;638;34505;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;6381;28663;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;2773;31686;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;720;34273;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113100_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;12136;23054;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195345_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;5927;29086;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201234_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;2366;32612;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192717_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;3087;31928;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;3571;30896;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;5159;29705;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101612_SmallPatches_C2-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;1578;33586;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T203108_SmallPatches_C6-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;412;34591;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;13866;21230;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;8897;26254;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;17948;17097;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;2474;14371;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105419_SmallPatches_C6-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;2234;32909;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193605_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;1574;33489;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;15401;19641;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191245_SmallPatches_C3-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;3442;31530;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143338_SmallPatches_C2-CAM6;1;0;1;1;NO WORM;7890;27175;76;0.0021627159158817337;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;10815;24335;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192051_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;2456;32515;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203314_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;2100;32900;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191908_SmallPatches_C6-CAM2;1;0;1;1;NO WORM;11653;20703;120;0.0036950363345239563;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221017T203157_SmallPatches_C4-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T104032_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;5903;29247;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;6871;28301;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM2;1;0;1;1;NO WORM;530;26785;7804;0.2222158945300265;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;10359;21474;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114833_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1715;32120;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T121404_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;3635;31416;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200322_SmallPatches_C4-CAM5;1;0;1;1;NO WORM;12559;20999;1561;0.04444887382898146;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;3489;31507;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201712_SmallPatches_C1-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221125T143343_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;22226;12882;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;657;34448;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112823_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;23022;9195;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102313_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;1710;31063;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113946_SmallPatches_C4-CAM6;1;0;1;1;NO WORM;385;10653;24038;0.6853118941726537;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221012T203101_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1400;33543;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205844_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;20332;14716;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120115_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;1729;33380;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;2545;32455;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;795;34216;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143343_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;1162;33933;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;5547;29491;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200322_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;20781;14292;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;5600;29398;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120115_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;560;34576;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113125_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;1247;33979;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205844_SmallPatches_C5-CAM1;1;0;1;1;NO WORM;5492;29583;1;2.8509522180408255e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221016T113946_SmallPatches_C4-CAM1;1;0;1;1;NO WORM;1244;22547;11190;0.31988793916697633;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T112823_SmallPatches_C2-CAM5;1;1;1;1;NO WORM;625;34554;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;3342;31858;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;9577;25509;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115434_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;2035;31469;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114429_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;10386;24637;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104737_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;1921;33042;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113025_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;10040;24278;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205844_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;11609;18260;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114809_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1988;30994;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104110_SmallPatches_C2-CAM7;1;0;1;1;NO WORM;2729;12280;20247;0.57428522804629;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221123T115703_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;5454;29703;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;12241;21219;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T195406_SmallPatches_C2-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM3;1;1;1;1;NO WORM;4048;30951;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201756_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;1856;26720;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115703_SmallPatches_C3-CAM5;1;0;1;1;NO WORM;2738;29984;2368;0.06748361356511827;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221118T104737_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;6136;23958;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114429_SmallPatches_C6-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;2124;29617;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;2711;32298;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201712_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;607;34549;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;5581;27919;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;3281;31853;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191908_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;481;34622;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;4100;31069;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104032_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;2004;33165;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;526;34632;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105419_SmallPatches_C6-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;780;34394;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203314_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;4917;30071;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;661;34495;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191245_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;6570;28451;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;528;34462;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T121404_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;4103;30934;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM7;1;0;1;1;NO WORM;3742;29474;1844;0.052595550484883055;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T114833_SmallPatches_C2-CAM3;1;1;1;1;NO WORM;7890;25956;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;570;34566;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105419_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;2630;32420;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192051_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;3616;31350;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;470;34583;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;4338;30867;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104032_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;18342;16767;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;19478;15561;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191908_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;431;34613;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143338_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;2121;33064;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114833_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;486;33372;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193605_SmallPatches_C2-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221121T121404_SmallPatches_C6-CAM3;1;0;1;1;NO WORM;5208;23206;6716;0.19117563336179902;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;12846;22146;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205835_SmallPatches_C4-CAM4;1;0;1;1;NO WORM;794;4520;29715;0.8482971252390876;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T191245_SmallPatches_C3-CAM5;1;0;1;1;NO WORM;653;6606;27788;0.7928781350757554;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T201234_SmallPatches_C1-CAM2;1;0;1;1;NO WORM;324;5748;28898;0.826365456105233;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T192717_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;330;34673;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;18723;16291;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;677;34314;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;6927;28132;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;26723;6441;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113100_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;640;34567;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192051_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;1016;33923;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;294;34614;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T104032_SmallPatches_C1-CAM8;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T203157_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;1940;33046;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;1136;33955;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;2390;32606;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195345_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;5787;29199;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193605_SmallPatches_C2-CAM8;1;0;1;1;NO WORM;672;9925;24482;0.6979104307420394;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;377;34650;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;392;34685;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;2426;32681;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;975;33971;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T202208_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;5268;29822;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201234_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;6115;28865;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;2766;4860;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;4252;30895;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;3947;31025;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101612_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;4190;30870;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;848;34276;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;579;34568;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115434_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;1481;32017;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114429_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;22716;12222;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;636;34557;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114809_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;260;32733;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;11370;23736;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1812;31675;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM5;1;1;1;1;NO WORM;3827;28466;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113025_SmallPatches_C1-CAM6;1;0;1;1;NO WORM;1104;33293;730;0.020781734847837845;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221013T114809_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;4710;28289;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201756_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1049;34137;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115703_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;651;34520;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104110_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;2157;33079;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;3275;31831;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115434_SmallPatches_C5-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T114429_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;3201;31169;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;351;34637;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;3347;31675;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;2484;30989;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;1949;33171;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195406_SmallPatches_C2-CAM6;1;0;1;1;NO WORM;11214;23834;1;2.8531484493138176e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;3786;31236;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201712_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;2558;32589;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200322_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;5646;5870;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143343_SmallPatches_C3-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221125T144049_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;9777;25247;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112823_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;1738;33402;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T203101_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;291;34662;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;421;34569;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144049_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;3925;31151;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;962;34216;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200322_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;480;34627;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;3959;31054;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113125_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1736;33454;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM5;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T104110_SmallPatches_C2-CAM8;1;1;1;1;NO WORM;14497;20745;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102313_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;1075;33868;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113946_SmallPatches_C4-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;8015;115;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113025_SmallPatches_C1-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T114809_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;9184;23794;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200335_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;3403;30997;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103134_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1855;33264;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;8457;26721;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T105413_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;354;34675;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102358_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;23677;11394;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193611_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;480;34617;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;2090;33102;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200706_SmallPatches_C6-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;6597;20389;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191902_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;2279;32845;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;1622;33557;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102308_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;3421;31489;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200335_SmallPatches_C6-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221125T232132_SmallPatches_C2-CAM8;1;0;1;1;NO WORM;22870;12174;1;2.8534741047224996e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;360;26566;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191902_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;3244;31799;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200706_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;3764;31298;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T201801_SmallPatches_C3-CAM7;1;0;1;1;NO WORM;530;87;34500;0.9824301620297862;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;643;34530;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201332_SmallPatches_C2-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM6;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221121T204620_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;4873;30252;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105413_SmallPatches_C5-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM6;1;0;1;1;NO WORM;9214;25877;1;2.8496523424142255e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;8188;15602;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200706_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;5487;29546;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194416_SmallPatches_C6-CAM7;1;0;1;1;NO WORM;2354;28097;4580;0.1307413433815763;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;670;34278;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;10520;16401;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;6025;29109;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191303_SmallPatches_C2-CAM3;1;1;1;1;NO WORM;573;34572;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;377;34634;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200721_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;503;34501;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193611_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;13039;22013;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203313_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;7800;27267;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;6579;27968;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200721_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;564;34432;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201332_SmallPatches_C2-CAM8;1;1;1;1;NO WORM;2052;32895;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM8;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193611_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;5337;29731;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM2;1;0;1;1;NO WORM;318;1836;32822;0.9384149130832571;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T191303_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;4426;30746;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;345;34636;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM6;1;0;1;1;NO WORM;1764;33137;3;8.595003438001376e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221122T192239_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;3748;31343;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232132_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;596;34492;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113745_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;3552;31530;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;3659;31392;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105445_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;866;34074;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101555_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;885;34099;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;2828;32389;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;11257;21211;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;2136;32870;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190805_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;2997;32147;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233330_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;5359;29671;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192231_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;3329;31880;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211445_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;4863;30214;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193059_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;5790;29172;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;5761;29342;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM3;1;0;1;1;NO WORM;530;240;34393;0.9781019821971959;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221011T192159_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;1314;33610;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104123_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;1239;33828;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;4899;30185;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;440;34622;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;303;34665;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105445_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;6837;28121;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM4;1;0;1;1;NO WORM;4747;15633;14831;0.4212036011473687;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM4;1;0;1;1;NO WORM;525;2829;31824;0.9046563192904656;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221110T193059_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;337;34614;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM6;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;1413;33559;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM5;1;0;1;1;NO WORM;331;47;33103;0.9887100146351662;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;10791;23993;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;6514;28657;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191711_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;359;34573;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;6806;28173;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211445_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;26743;7837;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233330_SmallPatches_C4-CAM6;1;0;1;1;NO WORM;3288;4453;27327;0.7792574426827877;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221122T102404_SmallPatches_C3-CAM4;1;0;1;1;NO WORM;445;0;34607;0.9873045760584275;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;610;34467;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T130040_SmallPatches_C2-CAM3;1;1;1;1;NO WORM;3137;25007;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131806_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;20933;5890;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233330_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;1028;34013;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102404_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;6486;28504;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;632;34583;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195638_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;8945;26166;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;2583;32376;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191711_SmallPatches_C2-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;2999;31946;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;5534;29693;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192159_SmallPatches_C5-CAM8;1;0;1;1;NO WORM;258;7217;27448;0.7859576783208774;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;329;33139;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131806_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;707;26099;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;876;34114;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112304_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;259;32351;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130040_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;979;27253;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;5797;29299;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195557_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;6832;6718;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;25494;9595;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201801_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;6779;28348;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194416_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;8246;26803;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;4640;30443;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103117_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;6437;28488;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203313_SmallPatches_C5-CAM2;1;0;1;1;NO WORM;1574;33464;2;5.7077625570776254e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;2526;32462;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200721_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;712;34273;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102308_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;1826;33124;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;11279;23856;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232132_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;2137;23672;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192239_SmallPatches_C3-CAM3;1;0;1;1;NO WORM;6966;9667;18468;0.5261388564428364;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;6117;28823;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113745_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;5209;30098;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200721_SmallPatches_C3-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193611_SmallPatches_C3-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T200138_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;9597;25403;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103541_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;563;34577;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203313_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;5248;29732;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194409_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;794;34218;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM6;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T191303_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;7570;27548;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103134_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;422;34611;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;585;34444;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192239_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;897;34211;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103134_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;3341;31674;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200335_SmallPatches_C6-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T193945_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;4938;30214;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;12968;21678;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102308_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;359;34676;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210707_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;11765;23020;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105413_SmallPatches_C5-CAM4;1;0;1;1;NO WORM;353;0;34703;0.9899303970789594;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T201332_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;298;34670;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102358_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;492;34682;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T200700_SmallPatches_C5-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103141_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;5721;23049;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T201801_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;2673;32431;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201720_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;698;34521;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T110848_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;296;34692;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102308_SmallPatches_C3-CAM1;1;0;1;1;NO WORM;317;4259;30402;0.869174909943393;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221117T200335_SmallPatches_C6-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T200026_SmallPatches_C4-CAM8;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103134_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;5153;29952;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201801_SmallPatches_C3-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T112832_SmallPatches_C3-CAM5;1;1;1;1;NO WORM;23287;11696;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143258_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;5721;29403;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131923_SmallPatches_C6-CAM7;1;0;1;1;NO WORM;780;25499;717;0.026559490294858497;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221120T191902_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;6484;28295;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194416_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;939;34108;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105413_SmallPatches_C5-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;268;34561;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM5;1;1;1;1;NO WORM;19637;15547;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191711_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;685;34232;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;538;32908;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102404_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;18356;10107;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194534_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1220;33774;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195638_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;2188;32937;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM5;1;0;1;1;NO WORM;14635;10943;9413;0.26901203166528537;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221117T195557_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;6486;28615;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131806_SmallPatches_C4-CAM2;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;397;34625;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195638_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;522;34524;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211445_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;5792;29323;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233330_SmallPatches_C4-CAM7;1;0;1;1;NO WORM;4730;13580;443;0.023622887004745907;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T102254_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;6563;28233;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203601_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;3542;31615;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM6;1;0;1;1;NO WORM;427;32346;2277;0.06496433666191155;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221012T131806_SmallPatches_C4-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T112304_SmallPatches_C4-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T130040_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;7747;20451;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195557_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;11312;23801;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113217_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;4745;18157;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;5055;29773;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190805_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;993;34186;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112304_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;8012;24502;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105445_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;541;34382;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101555_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;355;34645;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;1406;33766;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103106_SmallPatches_C6-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T195557_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;2321;32792;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193059_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;15413;19619;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205101_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;5705;29386;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;19255;15733;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM5;1;1;1;1;NO WORM;480;34601;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192159_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1167;33751;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104123_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;5714;29378;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101555_SmallPatches_C3-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T105445_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;8115;25286;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232044_SmallPatches_C1-CAM2;1;0;1;1;NO WORM;653;32239;2352;0.06673476336397685;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T195306_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;402;34625;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113223_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;836;34159;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104123_SmallPatches_C3-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T202150_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;6552;28595;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114423_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;12997;22065;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192231_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;4480;30677;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113043_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;2966;32111;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111506_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;1323;33850;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203023_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;10319;24722;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112411_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;4433;28131;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111254_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;3314;30092;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115015_SmallPatches_C6-CAM2;1;0;1;1;NO WORM;1934;25725;7440;0.21197185104988747;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T113050_SmallPatches_C6-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T203324_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;1132;33895;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115657_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;673;34453;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112417_SmallPatches_C6-CAM5;1;0;1;1;NO WORM;169;11399;20979;0.6445755369158448;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T111506_SmallPatches_C3-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221120T190810_SmallPatches_C3-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T112417_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;16572;15970;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203324_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;331;34638;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;7769;27252;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111254_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;12652;16622;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113050_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;467;34613;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112411_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;188;32367;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103022_SmallPatches_C4-CAM7;1;0;1;1;NO WORM;452;996;33615;0.958702906197416;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221011T191616_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;8225;21464;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203324_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;6303;28749;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;15930;18982;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113050_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;11064;24001;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;16292;17694;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T112001_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;4018;31144;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190810_SmallPatches_C3-CAM8;1;0;1;1;NO WORM;972;30581;3632;0.1032258064516129;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T101512_SmallPatches_C1-CAM4;1;0;1;1;NO WORM;4445;30538;1;2.8584495769494626e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;24068;11040;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM2;1;0;1;1;NO WORM;646;7339;27071;0.7722215883158375;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221013T114735_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;2792;30984;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192204_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;202;34686;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191616_SmallPatches_C1-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221118T103528_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;17963;14846;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193607_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1531;33505;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111506_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;5414;29748;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101512_SmallPatches_C1-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221119T203023_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;5749;29353;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120808_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;4286;30810;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;27691;6835;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112027_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;1520;33550;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113417_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;631;34358;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115009_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;5332;29715;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;1334;33679;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203320_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;650;34433;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;3177;31862;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;16995;9011;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115009_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;5189;29810;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113417_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;2592;32453;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;2157;32948;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105552_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;1496;33452;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM6;1;0;1;1;NO WORM;489;1706;23900;0.9158842690170531;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;2478;32617;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;10726;24431;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;484;34607;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;1628;33501;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203320_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;4633;30381;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;5977;29130;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193622_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;483;34573;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;3561;31447;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115009_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;1808;33323;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;4711;30373;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120109_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1271;33933;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193622_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;2374;32675;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203320_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;3704;31282;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;4480;30643;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;452;25613;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;7406;24806;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105552_SmallPatches_C2-CAM8;1;0;1;1;NO WORM;5478;23994;5491;0.15705174041129194;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221110T193129_SmallPatches_C2-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;19655;15238;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1212;33884;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;6127;28499;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;4309;30749;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103022_SmallPatches_C4-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T192204_SmallPatches_C6-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T114101_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;3425;31638;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;3161;31971;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114735_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;17630;16133;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;404;34668;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;945;33978;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101512_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;2418;32573;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;446;34540;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211456_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1895;33115;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114735_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;6220;27584;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T192204_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;390;5841;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191616_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;3788;31130;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T103022_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;406;34619;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103528_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1369;33753;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T121358_SmallPatches_C5-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221116T193607_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;29840;5192;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203023_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;571;34516;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120808_SmallPatches_C4-CAM1;1;0;1;1;NO WORM;4312;22564;8142;0.23250899537380776;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T112001_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;4029;31099;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120808_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;10891;24227;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113043_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;8724;26326;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112411_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;343;32244;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115015_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;859;34270;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T114101_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;4793;30183;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115657_SmallPatches_C2-CAM2;1;0;1;1;NO WORM;581;8298;26197;0.7468639525601551;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM6;1;0;1;1;NO WORM;353;11719;22922;0.6550265759844545;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T113043_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;603;34489;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203324_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;1612;33429;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103604_SmallPatches_C5-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221120T191855_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;894;34147;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T112417_SmallPatches_C6-CAM4;1;0;1;1;NO WORM;517;14877;17137;0.5267898312378961;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T103022_SmallPatches_C4-CAM8;1;0;1;1;NO WORM;7843;27191;1;2.8542885685742827e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221011T111254_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;2275;29647;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T113050_SmallPatches_C6-CAM7;1;0;1;1;NO WORM;444;0;34602;0.9873309364834788;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221119T115015_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;19775;15339;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T103112_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;11631;23303;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;30837;4093;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111903_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;7958;27191;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;747;34346;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;4455;30545;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120109_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;6645;28579;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193129_SmallPatches_C2-CAM6;1;0;1;1;NO WORM;1502;14643;18901;0.539319751184158;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221116T193622_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;7204;27865;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203320_SmallPatches_C6-CAM7;1;0;1;1;NO WORM;3885;17439;13713;0.3913862488226732;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM6;1;0;1;1;NO WORM;421;1935;32733;0.932856450739548;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221125T144055_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;1231;33803;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T193532_SmallPatches_C1-CAM7;1;0;1;1;NO WORM;401;0;34594;0.9885412201743106;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T113423_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;3178;31888;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T192144_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;1801;33309;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112027_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;6090;28902;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105552_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;7835;27120;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;19721;15392;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T112927_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;1971;24138;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T115009_SmallPatches_C5-CAM7;1;0;1;1;NO WORM;455;15302;19351;0.5511849151190612;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T113417_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;1743;33233;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144101_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;1487;3664;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T103454_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;15742;19357;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201803_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;5615;29555;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113303_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;410;34639;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;9502;16570;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112033_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;1527;32777;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115324_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;5925;27523;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203554_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;595;34610;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;264;34704;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195631_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;514;34593;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;268;34663;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131916_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;385;26521;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111024_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;1763;33236;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201803_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;1593;33567;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201820_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;7010;28256;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192604_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;936;34140;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;1820;33231;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;2645;32453;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204614_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;27444;7781;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;601;34044;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T112033_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;426;34601;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115324_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;4185;29321;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111530_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;7884;27310;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113303_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;3567;27559;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131916_SmallPatches_C5-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T111024_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;401;34514;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM1;1;0;1;1;NO WORM;908;11451;22639;0.6468655351734385;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221012T202949_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;5631;29202;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192604_SmallPatches_C4-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T130017_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;6269;21957;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T192604_SmallPatches_C4-CAM6;1;0;1;1;NO WORM;771;31739;2533;0.0722826242045487;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221123T210701_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;1021;34049;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;1642;33380;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T202949_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;9059;25674;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111024_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;10731;24253;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113303_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;3413;31632;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;820;27111;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200328_SmallPatches_C5-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;4112;30925;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201431_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;2697;32321;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;270;34663;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1172;34014;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120032_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;5335;29794;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232148_SmallPatches_C3-CAM2;1;0;1;1;NO WORM;6742;20449;8010;0.227550353683134;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM5;1;0;1;1;NO WORM;542;991;33596;0.9563608414700105;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;735;34417;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111939_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;5299;29763;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T191645_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;3515;31378;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;1059;13583;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;1217;33767;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103559_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;369;34637;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;3206;3047;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;3096;32036;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193528_SmallPatches_C1-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T200328_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;6469;28625;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191645_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;1859;33011;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;2194;32209;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;5116;30031;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;4756;30413;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232148_SmallPatches_C3-CAM5;1;1;1;1;NO WORM;4865;24141;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;15316;19797;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120032_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;2009;32855;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114417_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;4998;10932;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103559_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;394;34628;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191645_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;213;34666;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;3466;30930;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;4322;17535;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;369;34634;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;19955;15155;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205850_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;532;34588;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;482;34509;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;1194;33722;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;2065;33118;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;571;34456;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T111318_SmallPatches_C2-CAM8;1;1;1;1;NO WORM;25264;8234;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111939_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;522;34629;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;2329;32667;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205107_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;1726;33450;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200328_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;10991;24119;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;4523;30426;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205850_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;9717;12676;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;2732;32392;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130017_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;692;27545;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T131916_SmallPatches_C5-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T202949_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;5614;29395;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T111955_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;420;34601;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;2614;25487;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192604_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;341;34715;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T130017_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;3039;25208;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203554_SmallPatches_C2-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221017T111530_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;11263;24070;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;4191;22605;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210701_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1023;3319;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T202949_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;10672;24279;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T113303_SmallPatches_C4-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221119T201803_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;3117;32033;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T125943_SmallPatches_C1-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM2;1;0;1;1;NO WORM;2354;24322;8244;0.23608247422680412;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;6992;28090;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;4510;30440;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192724_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;311;34652;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T201820_SmallPatches_C2-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221121T204614_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1062;33524;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201306_SmallPatches_C3-CAM5;1;1;1;1;NO WORM;267;34712;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115619_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;9243;11151;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T195631_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;3511;28969;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115324_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;1614;31824;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203554_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;1439;33789;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;489;34524;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205107_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;12962;22228;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;324;34656;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114417_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;15154;19496;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;770;34264;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;20684;13418;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;4471;30467;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205850_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;2435;32648;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201543_SmallPatches_C5-CAM8;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;978;34227;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T193528_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;4298;30805;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;6285;28705;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM6;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T205107_SmallPatches_C5-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;18406;16603;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193952_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;2643;32410;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194540_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;3325;31647;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;3318;31149;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;417;34640;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205850_SmallPatches_C6-CAM5;1;0;1;1;NO WORM;18147;15974;889;0.025392744930019993;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;1926;33002;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;950;34021;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201431_SmallPatches_C4-CAM8;1;0;1;1;NO WORM;916;34022;6;0.00017170329670329672;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221117T200328_SmallPatches_C5-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;5137;16806;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;5023;29944;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201543_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;6521;25076;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;14505;20636;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T201431_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;14831;20092;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232148_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;575;34657;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;3769;28801;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114417_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;1185;33885;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104744_SmallPatches_C5-CAM8;1;0;1;1;NO WORM;336;29612;5094;0.14536841504480338;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;10837;24202;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T111939_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;5036;30099;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;570;11176;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T111318_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;271;33187;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;1305;33681;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200644_SmallPatches_C1-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221015T201431_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;1281;33705;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233343_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;8606;26449;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T205114_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;7263;27885;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T113211_SmallPatches_C4-CAM6;1;0;1;1;NO WORM;6435;14086;14479;0.41368571428571427;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221119T203029_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;1592;33436;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T191645_SmallPatches_C3-CAM7;1;0;1;1;NO WORM;3054;31596;21;0.0006056935190793458;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221110T194358_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;455;34542;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T233336_SmallPatches_C5-CAM3;1;0;1;1;NO WORM;507;87;34548;0.9830971487109442;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221121T204538_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;1174;33990;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103559_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;1174;33920;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120032_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;21717;13385;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114417_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;5523;29477;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T103611_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;378;34641;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T232148_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;6153;29063;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T203516_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;13916;20417;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202104_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;4730;30436;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221125T144049_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;3275;5008;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T201712_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;5451;29681;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200322_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;4357;30703;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113125_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;1885;33249;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;2277;32885;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112823_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;2767;32428;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115703_SmallPatches_C3-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T113946_SmallPatches_C4-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T200322_SmallPatches_C4-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T201712_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;4985;30128;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;2672;32316;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T144049_SmallPatches_C4-CAM6;1;0;1;1;NO WORM;2346;20429;12282;0.35034372593205354;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221125T143343_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;8855;26193;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113946_SmallPatches_C4-CAM5;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T203101_SmallPatches_C5-CAM4;1;1;1;1;NO WORM;759;34224;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;3626;31531;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205844_SmallPatches_C5-CAM5;1;0;1;1;NO WORM;1017;7450;26560;0.758272190024838;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221121T120115_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;892;32738;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;1663;23186;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115703_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;6080;29024;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201756_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;1416;33873;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114809_SmallPatches_C3-CAM3;1;1;1;1;NO WORM;506;32481;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114429_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;442;34627;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;5254;29765;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;4648;30404;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;3149;31935;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195406_SmallPatches_C2-CAM3;1;1;1;1;NO WORM;912;34213;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;322;33118;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;1302;33852;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;533;34607;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;3050;32016;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T115703_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;1375;33768;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104110_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;7139;28038;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;5682;27770;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;2815;32349;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195406_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;2698;32443;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;2627;2629;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;6016;29012;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM2;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221121T121404_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;8309;26759;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113100_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;622;34555;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195345_SmallPatches_C3-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T192717_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;707;34325;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T121351_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;22101;12556;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202208_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1718;31229;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T101612_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;377;34641;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;2452;31005;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;21859;13208;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;2779;32425;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;1216;33912;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T203108_SmallPatches_C6-CAM2;1;1;1;1;NO WORM;1971;32885;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202208_SmallPatches_C2-CAM5;1;1;1;1;NO WORM;4534;30687;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114833_SmallPatches_C2-CAM8;1;1;1;1;NO WORM;314;33500;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201234_SmallPatches_C1-CAM7;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221014T192717_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;3794;31161;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T205835_SmallPatches_C4-CAM8;1;0;1;1;NO WORM;29876;2573;159;0.004876104023552503;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;667;34479;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;694;34302;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;378;34721;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;8605;25994;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T203108_SmallPatches_C6-CAM5;1;1;1;1;NO WORM;1854;33122;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191908_SmallPatches_C6-CAM8;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;22481;4642;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203157_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;8393;26625;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM8;1;0;1;1;NO WORM;447;10583;24053;0.6856027135649745;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;8007;27126;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105419_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;4630;30376;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192051_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;8305;26646;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203314_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;3776;31309;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM8;1;0;1;1;NO WORM;659;5541;28912;0.8234221918432445;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221120T191908_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;7208;27926;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;1128;34044;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104032_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;626;34565;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM1;1;1;1;1;NO WORM;23427;11674;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM5;1;0;1;1;NO WORM;393;0;34634;0.98878008393525;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221125T143338_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;2390;32695;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T192717_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;6171;28800;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T121404_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;573;552;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;8991;24569;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104032_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;5644;29537;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221120T191908_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;2792;32289;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;3122;32043;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM6;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221011T192051_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;22966;11979;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105419_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;8781;26196;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T203314_SmallPatches_C5-CAM1;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T193605_SmallPatches_C2-CAM4;1;1;1;1;NO WORM;9570;25595;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM8;1;0;1;1;NO WORM;18797;11491;4202;0.1218324151928095;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221121T121404_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;494;34601;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113100_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;662;34460;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191245_SmallPatches_C3-CAM7;1;1;1;1;NO WORM;649;34421;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;10821;24070;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114833_SmallPatches_C2-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM4;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;7421;27645;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115434_SmallPatches_C5-CAM6;1;1;1;1;NO WORM;6810;26641;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM1;1;1;1;1;NO WORM;4456;30519;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM5;1;1;1;1;NO WORM;2501;32561;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143343_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;8547;26367;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;25502;9607;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115434_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;24777;8698;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T114429_SmallPatches_C6-CAM7;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221115T194401_SmallPatches_C4-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221117T104110_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;1229;33885;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T201756_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;1106;34102;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T114809_SmallPatches_C3-CAM2;1;1;1;1;NO WORM;1435;31578;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104737_SmallPatches_C4-CAM1;1;0;1;1;NO WORM;365;13590;21063;0.6014906619452853;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221015T195406_SmallPatches_C2-CAM2;1;0;1;1;NO WORM;9079;20362;1;3.396508389375722e-05;1 worm with errors
+Documents/PTUT/Minipatches_light_20260116/20221123T211451_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;3362;31770;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115441_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;3590;29925;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191156_SmallPatches_C1-CAM3;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM6;1;1;1;1;NO WORM;459;34579;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143343_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;4045;30906;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T200322_SmallPatches_C4-CAM7;1;0;1;1;NO WORM;477;3202;31483;0.8953700017063876;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221016T201712_SmallPatches_C1-CAM3;1;1;1;1;NO WORM;2749;32371;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T115434_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;26786;6618;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM6;1;1;1;1;NO WORM;377;34659;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;14208;20939;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T203101_SmallPatches_C5-CAM5;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T113946_SmallPatches_C4-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221016T201712_SmallPatches_C1-CAM4;1;1;1;1;NO WORM;4926;29198;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221118T104750_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;12748;22305;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T200743_SmallPatches_C2-CAM8;1;1;1;1;NO WORM;1499;33569;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221125T143343_SmallPatches_C3-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221121T205844_SmallPatches_C5-CAM3;1;1;1;1;NO WORM;3749;31388;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T102313_SmallPatches_C2-CAM2;1;1;1;1;NO WORM;2663;32323;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T203101_SmallPatches_C5-CAM2;1;1;1;1;NO WORM;317;34646;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221016T113946_SmallPatches_C4-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221126T112734_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;3395;31169;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221126T112823_SmallPatches_C2-CAM7;1;1;1;1;NO WORM;3650;19838;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T200144_SmallPatches_C6-CAM1;1;1;1;1;NO WORM;5613;29242;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T120115_SmallPatches_C3-CAM4;1;1;1;1;NO WORM;630;34532;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105419_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;32500;2464;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221011T192051_SmallPatches_C4-CAM2;1;1;1;1;NO WORM;617;34325;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120820_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;1759;33339;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;620;34555;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T193937_SmallPatches_C4-CAM7;1;1;1;1;NO WORM;4378;30762;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T191908_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;480;34617;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201234_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;4331;30596;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM3;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T114833_SmallPatches_C2-CAM7;1;0;1;1;NO WORM;249;4889;28665;0.8480016566576931;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T191245_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;4816;30240;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM8;1;1;1;1;NO WORM;7246;27775;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T104032_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;905;34241;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T113711_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;13478;21704;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM8;1;1;1;1;NO WORM;6387;28563;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM8;1;1;1;1;NO WORM;498;34592;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T111428_SmallPatches_C1-CAM2;1;0;1;1;NO WORM;1536;17549;16095;0.4575042637862422;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221011T192051_SmallPatches_C4-CAM5;1;1;1;1;NO WORM;447;34510;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195345_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;11320;23741;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191245_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;389;34623;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221119T203018_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;4121;30801;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221121T121404_SmallPatches_C6-CAM7;1;1;1;1;NO WORM;3223;31856;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM8;1;1;1;1;NO WORM;7565;27434;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194402_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;9164;25853;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221014T191245_SmallPatches_C3-CAM8;1;1;1;1;NO WORM;3561;30674;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195345_SmallPatches_C3-CAM1;1;1;1;1;NO WORM;4042;30934;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM1;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;7745;27237;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM4;1;1;1;1;NO WORM;6882;28197;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;6265;28804;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221115T194409_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;4363;30651;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T202208_SmallPatches_C2-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221013T201234_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;8233;26685;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203157_SmallPatches_C4-CAM3;1;1;1;1;NO WORM;11256;23780;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM1;1;1;1;1;NO WORM;27937;4495;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221012T203108_SmallPatches_C6-CAM4;0;0;1;0;WEIRD;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM1;1;0;1;1;NO WORM;690;15269;19002;0.5435199221990218;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM1;1;1;1;1;NO WORM;2858;32248;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221013T201234_SmallPatches_C1-CAM1;1;0;1;1;NO WORM;307;3965;30688;0.8778032036613272;2+ worms
+Documents/PTUT/Minipatches_light_20260116/20221014T192717_SmallPatches_C5-CAM7;1;1;1;1;NO WORM;5650;29393;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221116T194416_SmallPatches_C6-CAM3;1;1;1;1;NO WORM;6031;29029;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221120T190723_SmallPatches_C1-CAM2;1;1;1;1;NO WORM;10523;24603;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221117T105407_SmallPatches_C4-CAM6;1;1;1;1;NO WORM;3576;31454;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T193022_SmallPatches_C1-CAM5;1;1;1;1;NO WORM;522;34465;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221015T195345_SmallPatches_C3-CAM6;1;1;1;1;NO WORM;3325;30982;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221110T111030_SmallPatches_C6-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221123T120814_SmallPatches_C5-CAM6;0;0;1;1;NO WORM;0;0;0;0.0;0 worms
+Documents/PTUT/Minipatches_light_20260116/20221123T210621_SmallPatches_C1-CAM6;1;1;1;1;NO WORM;480;34530;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221017T203157_SmallPatches_C4-CAM4;1;1;1;1;NO WORM;828;34223;0;0.0;1 worm clean
+Documents/PTUT/Minipatches_light_20260116/20221122T102319_SmallPatches_C1-CAM7;1;1;1;1;NO WORM;6174;28926;0;0.0;1 worm clean
