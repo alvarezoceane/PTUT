@@ -1,0 +1,9 @@
+﻿Folder Path;traj.csv exists?;foodpatches_reviewed.mat exists?;traj.mat exists?;traj.mat empty?;Diagnosis of video;frames with zero worms;frames with one worm;frames with two or more worms;proportion of frames with multiple worms;final classification of the video;match 
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221011T111213_SmallPatches_C1-CAM7;1;1;1;0;OK;3116;29123;0;0;1 worm clean;yes
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221011T112304_SmallPatches_C4-CAM1;0;0;1;0;WEIRD;0;0;0;0;0 worms ;yes
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221011T191616_SmallPatches_C1-CAM3;0;0;1;1;NO WORM ;0;0;0;0;0 worms ;tes
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221011T191711_SmallPatches_C2-CAM4;1;1;1;0;OK;112;34573;0;0;1 worm clean;yes
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221012T130040_SmallPatches_C2-CAM4;1;1;1;0;OK;423;27253;0;0;1 worm clean;yes
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221110T105517_SmallPatches_C3-CAM6;1;1;1;1;OK;946;33722;0;0;1 worm clean;yes
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221016T203158_SmallPatches_C4-CAM2;1;0;1;0;WEIRD;49;7339;27071;0.7856;2+ worms;yes
+/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116/20221110T105552_SmallPatches_C2-CAM8;1;0;1;0;WEIRD;4925;23994;5491;0.160;2+ worms;yes 
