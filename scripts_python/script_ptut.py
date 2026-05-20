@@ -364,9 +364,9 @@ def manual_annotation(results_path: Path, traj_path: Path):
     results_path = Path(results_path)
     traj_path = Path(traj_path)
 
-    df1 = pd.read_csv(results_path)
-    df1.columns = df1.columns.str.strip() # This line removes any leading or trailing whitespace from the column names in the DataFrame df1. 
+    df1 = pd.read_csv(results_path, sep=';', engine='python') # This line reads the CSV file located at results_path into a pandas DataFrame called df1. The sep=None argument allows pandas to automatically detect the separator used in the CSV file (e.g., comma, semicolon, etc.), and engine='python' specifies that the Python engine should be used for parsing the CSV file, which can handle more complex cases than the default C engine.
 
+    df1.columns = ['Folder Path', 'id_conservative', 'manual_annotation', 'Comments']
     traj_files = list(traj_path.rglob("traj.csv")) # rglob() is a method that allows you to search for files in a directory and its subdirectories using a pattern. In this case, it searches for all files named "traj.csv" within the traj_path directory and its subdirectories. The result is a list of Path objects representing the paths to each found "traj.csv" file.
 
     print("Number of traj.csv found:", len(traj_files))
@@ -405,8 +405,7 @@ def manual_annotation(results_path: Path, traj_path: Path):
 
         copie = df2.copy()
 
-        copie = copie.merge(annotation_video[["id_conservative", "nb_worm"]].rename(columns={"nb_worm": "manual_annotation"}),on="id_conservative",how="left") # This line performs a left merge (join) between the copie DataFrame and a subset of the annotation_video DataFrame. The subset consists of the "id_conservative" and "nb_worm" columns from annotation_video, where "nb_worm" is renamed to "manual_annotation". The merge is done based on the "id_conservative" column, meaning that for each row in copie, it will look for a matching value in the "id_conservative" column of annotation_video and bring in the corresponding "manual_annotation" value. If there is no match, the "manual_annotation" value will be NaN (missing).
-
+        copie = copie.merge(annotation_video[["id_conservative", "manual_annotation"]], on="id_conservative", how="left")
         copie["manual_annotation"] = copie["manual_annotation"].fillna("")
 
         new_name = traj_csv.with_name("traj_copy.csv") # This line creates a new Path object new_name by taking the original traj_csv Path and replacing its filename with "traj_copy.csv". The with_name() method is used to change the name of the file while keeping the same directory. This means that the new file will be saved in the same location as the original traj.csv but with the name traj_copy.csv.
@@ -493,76 +492,6 @@ def add_filtered_proportion(csv_path):
     print(f" Terminé ! Le fichier {csv_path} a été mis à jour avec succès ({compteur_trouves} fichiers calculés).")
 
 
-def generate_project_histograms(csv_path):
-    # 1. Lecture du fichier
-    with open(csv_path, 'r') as f:
-        first_line = f.readline()
-    separateur = ';' if ';' in first_line else ','
-    
-    df_all = pd.read_csv(csv_path, sep=separateur)
-    df_all.columns = df_all.columns.str.strip()
-    
-    base_dir = "/Users/noursaad/Desktop/PTUT"
-    
-    # 2. FILTRAGE : On n'isole QUE les lignes qui ont un fichier traj_copy.csv sur le Mac
-    lignes_filtrees = []
-    for index, row in df_all.iterrows():
-        folder_path = str(row['Folder Path']).strip().replace('\\', '/')
-        if "Minipatches_light_20260116" in folder_path:
-            sub_folder = folder_path.split("Minipatches_light_20260116/")[-1]
-            full_path = os.path.join(base_dir, "Minipatches_light_20260116", sub_folder)
-        else:
-            full_path = os.path.join(base_dir, "Minipatches_light_20260116", folder_path)
-            
-        if os.path.exists(os.path.join(full_path, 'traj_copy.csv')):
-            lignes_filtrees.append(index)
-            
-    # Notre dataframe de validation (les 13 vidéos)
-    df = df_all.loc[lignes_filtrees].copy()
-
-    print(f"\n Génération des histogrammes pour le dataset de validation ({len(df)} vidéos)")
-
-    # Colonnes cibles
-    col_classification = 'final classification of the video'
-    col_before = 'proportion of frames with multiple worms'
-    col_after = 'proportion of frames with multiple worms after filtering'
-
-    categories = ['0 worms', '1 worm clean', '1 worm with errors', '2+ worms']
-
-    # 3. Création de la grille (2 lignes, 5 colonnes)
-    fig, axes = plt.subplots(2, 5, figsize=(22, 10), sharex=True)
-    fig.suptitle("Phase 4 - Data Quality Control (Validation Dataset Only)", fontsize=16, fontweight='bold')
-
-    # --- LIGNE 1 : AVANT FILTRAGE (Bleu) ---
-    axes[0, 0].hist(df[col_before].dropna(), bins=10, color='skyblue', edgecolor='black')
-    axes[0, 0].set_title("all the filtered videos\n(before)", fontweight='bold')
-    axes[0, 0].set_ylabel("Number of videos")
-
-    for i, cat in enumerate(categories):
-
-        df_sub = df[df[col_classification] == cat]
-        axes[0, i + 1].hist(df_sub[col_before].dropna(), bins=5, color='skyblue', edgecolor='black')
-        axes[0, i + 1].set_title(f"Category: {cat}\n(Before)")
-        print(cat)
-        print(df_sub[col_before].dropna())
-
-    # --- LIGNE 2 : APRÈS FILTRAGE (Salmon) ---
-    axes[1, 0].hist(df[col_after].dropna(), bins=10, color='salmon', edgecolor='black')
-    axes[1, 0].set_title("all the filtered videos\n(after)", fontweight='bold')
-    axes[1, 0].set_ylabel("Number of videos")
-    axes[1, 0].set_xlabel("Proportion of duplicated frames")
-
-    for i, cat in enumerate(categories):
-        df_sub = df[df[col_classification] == cat]
-        axes[1, i + 1].hist(df_sub[col_after].dropna(), bins=5, color='salmon', edgecolor='black')
-        axes[1, i + 1].set_title(f"Category: {cat}\n(After)")
-        axes[1, i + 1].set_xlabel("Proportion of duplicated frames")
-
-    plt.tight_layout()
-    plt.savefig("analyse_filtrage_histogrammes.png", dpi=300)
-    plt.show()
-
-
 def generate_perfect_slide_plot(csv_path):
 
     # 1. Lecture du fichier
@@ -604,11 +533,8 @@ def generate_perfect_slide_plot(csv_path):
     # --- GRAPHIQUE 2 (À DROITE) : Le zoom sur l'efficacité du filtre (Avant vs Après) ---
     vids = [f"V{i+1}" for i in range(len(df_val))]
     
-    # Pour que le graphique soit parlant, on va simuler visuellement l'effet du filtre sur les erreurs
-    # car la vidéo 8 avait du bruit, et on montre le nettoyage parfait
-    avant_vals = [0.0] * 13
-    avant_vals[7] = 0.12  # On met en valeur la vidéo qui avait l'erreur de tracking d'id_conservative
-    apres_vals = [0.0] * 13 
+    avant_vals = df_val[col_before].tolist()
+    apres_vals = df_val[col_after].tolist() 
 
     x = range(len(vids))
     width = 0.35
@@ -701,7 +627,7 @@ def generate_alternative_plots(csv_path):
     col_after = 'proportion of frames with multiple worms after filtering'
 
     # Création de la figure (1 ligne, 2 colonnes)
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 7))
+    fig, ax1 = plt.subplots(figsize=(10, 7))
     fig.suptitle("alternative visualization : before vs after filtering", fontsize=16, fontweight='bold', y=0.95)
 
     # GRAPHIQUE 1 :  BOXPLOT 
@@ -719,22 +645,113 @@ def generate_alternative_plots(csv_path):
     ax1.set_ylabel("Proportion of frames with duplicates")
     ax1.set_xlabel("")
 
-    # GRAPHIQUE 2 :  SCATTER PLOT (Nuage de points)
-    sns.scatterplot(data=df, x=col_before, y=col_after, hue=col_class, alpha=0.7, ax=ax2)
-    
-    # Ligne de référence diagonale (y = x)
-    max_val = max(df[col_before].max(), df[col_after].max())
-    ax2.plot([0, max_val], [0, max_val], color='red', linestyle='--', label="Aucun changement (y=x)")
-    
-    ax2.set_title("Scatter Plot : Dataset Global", fontweight='bold')
-    ax2.set_xlabel("Proportion BEFORE filtering")
-    ax2.set_ylabel("Proportion AFTER filtering")
-    ax2.legend(title="Categories")
-
     plt.tight_layout()
     plt.savefig("analyse_alternatives.png", dpi=300)
     print("New graphs generated in 'analyse_alternatives.png' !")
     plt.show()
+
+def apply_secondary_spatial_filter(csv_path):
+    with open(csv_path, 'r') as f:
+        first_line = f.readline()
+    sep = ';' if ';' in first_line else ','
+    
+    df_results = pd.read_csv(csv_path, sep=sep)
+    df_results.columns = df_results.columns.str.strip()
+
+    col_class = 'final classification of the video'
+    col_after = 'proportion of frames with multiple worms after filtering'
+
+    # filtering of the videos : "1 worm..." and also has duplicates (> 0)
+    mask_target = df_results[col_class].str.contains('1 worm', na=False, case=False)
+    mask_errors = df_results[col_after] > 0.0
+    df_target = df_results[mask_target & mask_errors]
+
+    print(f" Phase 2 : {len(df_target)} videos detected as '1 worm with errors' and with duplicates > 0, will be re-annotated with a secondary spatial filter. ")
+
+    base_dir = "/Users/noursaad/Desktop/PTUT"
+    
+    # --- filtering parameters (Thresholds) ---
+    MAX_DEV_THRESHOLD = 5.0       # maximum deviation from the mean position to be considered as "stable" (ex: 5 pixels)
+    DIST_TO_NOISE_THRESHOLD = 30.0 # maximum distance to known noise centroids to be considered as "close" (ex: 30 pixels)
+
+    compteur_modifies = 0
+
+    for index, row in df_target.iterrows():
+        # Reconstruction propre du chemin absolu
+        folder_path = str(row['Folder Path']).strip().replace('\\', '/')
+        if "Minipatches_light_20260116" in folder_path:
+            sub_folder = folder_path.split("Minipatches_light_20260116/")[-1]
+            full_path = os.path.join(base_dir, "Minipatches_light_20260116", sub_folder)
+        else:
+            full_path = os.path.join(base_dir, "Minipatches_light_20260116", folder_path)
+
+        traj_path = os.path.join(full_path, 'traj_copy.csv')
+
+        if not os.path.exists(traj_path):
+            print(f"folder not found, skipping: {os.path.basename(full_path)}")
+            continue
+
+        try:
+            # Lecture de traj_copy.csv
+            df_traj = pd.read_csv(traj_path)
+
+            # Étape A : Calcul de la position moyenne pour chaque ID
+            means = df_traj.groupby('id_conservative')[['x', 'y']].mean().reset_index()
+            means.rename(columns={'x': 'mean_x', 'y': 'mean_y'}, inplace=True)
+
+            # Étape B : Calcul de la déviation maximale pour chaque ID
+            df_merged = df_traj.merge(means, on='id_conservative')
+            # Distance Euclidienne entre chaque frame et la position moyenne
+            df_merged['dist_to_mean'] = np.sqrt((df_merged['x'] - df_merged['mean_x'])**2 + (df_merged['y'] - df_merged['mean_y'])**2)
+            max_devs = df_merged.groupby('id_conservative')['dist_to_mean'].max().reset_index()
+            max_devs.rename(columns={'dist_to_mean': 'max_dev'}, inplace=True)
+
+            # Regroupement des statistiques (Position Moyenne + Max Deviation)
+            id_stats = means.merge(max_devs, on='id_conservative')
+
+            # Étape C : Identifier les centroïdes des bruits ("noise") déjà existants
+            noise_ids = df_traj[df_traj['manual_annotation'] == 'noise']['id_conservative'].unique()
+            noise_stats = id_stats[id_stats['id_conservative'].isin(noise_ids)]
+            noise_centroids = noise_stats[['mean_x', 'mean_y']].values
+
+            ids_to_noise = []
+
+            # Étape D : Application de la règle logique
+            if len(noise_centroids) > 0:
+                for _, stat_row in id_stats.iterrows():
+                    id_val = stat_row['id_conservative']
+                    
+                    # Si c'est déjà un noise, on passe
+                    if id_val in noise_ids:
+                        continue 
+
+                    # Condition 1 : La déviation maximale est sous le threshold (Ex: < 5 px)
+                    if stat_row['max_dev'] <= MAX_DEV_THRESHOLD:
+                        mean_pos = np.array([stat_row['mean_x'], stat_row['mean_y']])
+                        
+                        # Calcul de la distance vers TOUS les bruits connus
+                        distances_to_noises = np.linalg.norm(noise_centroids - mean_pos, axis=1)
+                        
+                        # Condition 2 : Est-ce proche d'au moins un bruit ?
+                        if np.min(distances_to_noises) <= DIST_TO_NOISE_THRESHOLD:
+                            ids_to_noise.append(id_val)
+
+            # step E : updating DataFrame and saving the new CSV
+            if ids_to_noise:
+                df_traj.loc[df_traj['id_conservative'].isin(ids_to_noise), 'manual_annotation'] = 'noise'
+                print(f"{len(ids_to_noise)} ID(s) re-classé(s) en 'noise' dans la vidéo {os.path.basename(full_path)}")
+                compteur_modifies += 1
+            else:
+                print(f"➖ no new noise IDs found in {os.path.basename(full_path)}")
+
+            output_path = os.path.join(full_path, 'traj_copy_2.csv')
+            df_traj.to_csv(output_path, index=False)
+
+        except Exception as e:
+            print(f"error while loading {os.path.basename(full_path)} : {e}")
+            
+    print(f"\n done ! {compteur_modifies} videos modified and saved to 'traj_copy_2.csv'.")
+
 
 if __name__ == "__main__": # To prevent the function from running automatically when the file is imported somewhere else
 	#create_csv("/home/alvarez/Desktop/PTUT","results.csv")
@@ -745,9 +762,9 @@ if __name__ == "__main__": # To prevent the function from running automatically 
 	#histogram_JustOneWorm("/home/ibrahim/Bureau/PTUT/results.csv", "/home/ibrahim/Bureau/PTUT/results_manual_annotation.ods")
     #manual_annotation(Path("/Users/benitaibrahim/Documents/PTUT/annotation.csv"), Path("/Users/benitaibrahim/Documents/PTUT/Minipatches_light_20260116"))
 
-    #manual_annotation(Path("/Users/noursaad/Desktop/PTUT/annotation.csv"), Path("/Users/noursaad/Desktop/PTUT/Minipatches_light_20260116"))
+    #manual_annotation(Path("/Users/noursaad/Desktop/PTUT/results_manual_annotation_2.csv"), Path("/Users/noursaad/Desktop/PTUT/Minipatches_light_20260116"))
     #add_filtered_proportion('results_final_new.csv')
-    #generate_project_histograms('/Users/noursaad/Desktop/PTUT/results_final_new.csv') # with only the 13 videos of the validation dataset
     #generate_perfect_slide_plot('results_final_new.csv')
-    #generate_histograms_all_videos('/Users/noursaad/Desktop/PTUT/results_final_new.csv')
+    generate_histograms_all_videos('/Users/noursaad/Desktop/PTUT/results_final_new.csv')
     generate_alternative_plots('/Users/noursaad/Desktop/PTUT/results_final_new.csv')
+    #apply_secondary_spatial_filter('/Users/noursaad/Desktop/PTUT/results_final_new.csv')
