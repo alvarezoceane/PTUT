@@ -592,106 +592,72 @@ def generate_alternative_plots(csv_path):
     print("New graphs generated in 'analyse_alternatives.png' !")
     plt.show()
 
-def apply_secondary_spatial_filter(csv_path):
-    with open(csv_path, 'r') as f:
-        first_line = f.readline()
-    sep = ';' if ';' in first_line else ','
+# The goal is to create a script that reads results_final.csv, which contains summary information for all videos, including the column “proportion of frames with multiple worms after filtering”. The script should focus only on videos classified as “1 worm clean” or “1 worm with errors”, and identify those where this proportion is not equal to 0, meaning that duplicated frames still remain after filtering. For each of these videos, the script should use the corresponding Folder Path to enter the video folder and open traj_copy.csv, which contains trajectory information (id_conservative, frame, x, y, manual_annotation, etc.). For every individual (id_conservative), the script computes its average position by taking the mean of its x and y coordinates, and computes its maximum deviation by measuring, at each frame, the distance between the current position and the average position, then keeping the maximum value. Next, the script extracts the average positions of all individuals already tagged as noise and uses them as spatial references. Any individual whose average position is sufficiently close to one of these noise positions (below a distance threshold), and whose maximum deviation is also below a movement threshold (around 5 pixels), is considered stable and similar to known noise and is therefore reclassified as noise. Finally, a new file called traj_copy_2.csv is created in the corresponding video folder, containing the updated annotations. This second filtering step uses average position and movement information to distinguish remaining noise from real worms and further reduce duplicated frames after filtering.
+
+def compute_individual_stats(df):
+    stats = []
+    for id_value, group in df.groupby("id_conservative"): # This line groups the DataFrame df by the values in the "id_conservative" column. The groupby() method is used to create groups of rows that share the same value in the "id_conservative" column. The result is an iterable of (id_value, group) pairs, where id_value is a unique value from the "id_conservative" column and group is a DataFrame containing all rows that have that id_value.
+        avg_x = group["x"].mean()
+        avg_y = group["y"].mean()
+        distances = np.sqrt((group["x"] - avg_x) ** 2 +(group["y"] - avg_y) ** 2)
+        max_deviation = distances.max()
+        annotation = group["manual_annotation"].iloc[0] # This line retrieves the first value from the "manual_annotation" column of the group DataFrame that contains the data for that specific id_value.
+        stats.append({
+            "id_conservative": id_value,
+            "avg_x": avg_x,
+            "avg_y": avg_y,
+            "max_deviation": max_deviation,
+            "manual_annotation": annotation})
+    return pd.DataFrame(stats)
+
+
+def clean_remaining_noise(results_final_path,position_threshold=5,movement_threshold=5):
+    results = pd.read_csv(results_final_path, sep=None, engine="python")
+    results.columns = results.columns.str.strip()
+    prop_col = "proportion of frames with multiple worms after filtering"
     
-    df_results = pd.read_csv(csv_path, sep=sep)
-    df_results.columns = df_results.columns.str.strip()
+    category_col = "final classification of the video"
+    results[category_col] = (results[category_col].astype(str).str.strip().str.lower())
+    videos_to_fix = results[(results[prop_col].fillna(0).astype(float) != 0)& (results[category_col].isin(["1 worm with errors"]))] # This line filters the results DataFrame to identify videos that still have a non-zero proportion of frames with multiple worms after filtering, and whose final classification is either "1 worm clean" or "1 worm with errors". The condition checks if the value in the prop_col column (proportion of frames with multiple worms after filtering) is not equal to zero (after filling NaN values with 0 and converting to float), and if the value in the category_col column (final classification of the video) is either "1 worm clean" or "1 worm with errors". The resulting videos_to_fix DataFrame will contain only those videos that meet these criteria, indicating that they may still have issues with noise that need to be addressed.
+    print("Videos to fix:", len(videos_to_fix))
+    for _ , row in videos_to_fix.iterrows(): # This loop iterates over each row in the videos_to_fix DataFrame, allowing you to process each video that still has a non-zero proportion of frames with multiple worms. The iterrows() method is used to iterate through the rows of the DataFrame, providing both the index and the row data for each iteration. Inside the loop, you can access the folder path and other relevant information for each video to perform further analysis and cleaning.
+        folder = Path(row["Folder Path"])
+        traj_copy = folder / "traj_copy.csv"
+        if not traj_copy.exists():
+            print("Missing traj_copy.csv:", traj_copy)
+            continue
+        print("Processing:", traj_copy)
+        
+        df = pd.read_csv(traj_copy, sep=None, engine="python")
+        df.columns = df.columns.str.strip()
+        df["manual_annotation"] = df["manual_annotation"].astype(str).str.strip()
+        stats = compute_individual_stats(df)
+        stats["manual_annotation"] = (
+    stats["manual_annotation"]
+    .fillna("")
+    .astype(str)
+    .str.strip()
+)
+        noise_stats = stats[stats["manual_annotation"].str.lower() == "noise"] # 
 
-    col_class = 'final classification of the video'
-    col_after = 'proportion of frames with multiple worms after filtering'
-
-    # filtering of the videos : "1 worm..." and also has duplicates (> 0)
-    mask_target = df_results[col_class].str.contains('1 worm', na=False, case=False)
-    mask_errors = df_results[col_after] > 0.0
-    df_target = df_results[mask_target & mask_errors]
-
-    print(f" Phase 2 : {len(df_target)} videos detected as '1 worm with errors' and with duplicates > 0, will be re-annotated with a secondary spatial filter. ")
-
-    base_dir = "/Users/noursaad/Desktop/PTUT"
-    
-    # --- filtering parameters (Thresholds) ---
-    MAX_DEV_THRESHOLD = 5.0       # maximum deviation from the mean position to be considered as "stable" (ex: 5 pixels)
-    DIST_TO_NOISE_THRESHOLD = 30.0 # maximum distance to known noise centroids to be considered as "close" (ex: 30 pixels)
-
-    compteur_modifies = 0
-
-    for index, row in df_target.iterrows():
-        # reconstruction of the full path to the traj_copy.csv file based on the "Folder Path" column in the results CSV, ensuring that we correctly handle any variations in the folder path format and avoid issues with backslashes or missing subfolder names.
-        folder_path = str(row['Folder Path']).strip().replace('\\', '/')
-        if "Minipatches_light_20260116" in folder_path:
-            sub_folder = folder_path.split("Minipatches_light_20260116/")[-1]
-            full_path = os.path.join(base_dir, "Minipatches_light_20260116", sub_folder)
-        else:
-            full_path = os.path.join(base_dir, "Minipatches_light_20260116", folder_path)
-
-        traj_path = os.path.join(full_path, 'traj_copy.csv')
-
-        if not os.path.exists(traj_path):
-            print(f"folder not found, skipping: {os.path.basename(full_path)}")
+        if noise_stats.empty:
+            print("No noise ids found in:", folder)
             continue
 
-        try:
-            df_traj = pd.read_csv(traj_path)
+        for _, individual in stats.iterrows():
+            if str(individual["manual_annotation"]).lower() == "noise":
+                continue
+            distances_to_noise = np.sqrt((noise_stats["avg_x"] - individual["avg_x"]) ** 2 + (noise_stats["avg_y"] - individual["avg_y"]) ** 2)
+            min_distance_to_noise = distances_to_noise.min()
+            if (min_distance_to_noise < position_threshold and individual["max_deviation"] < movement_threshold):
+                id_to_change = individual["id_conservative"]
+                df.loc[df["id_conservative"] == id_to_change,"manual_annotation"] = "noise"
+                print( "Tagged as noise:",id_to_change,"| distance to noise:",min_distance_to_noise, "| max deviation:",individual["max_deviation"])
 
-            # step A : calculation of the mean position (centroid) for each ID
-            means = df_traj.groupby('id_conservative')[['x', 'y']].mean().reset_index()
-            means.rename(columns={'x': 'mean_x', 'y': 'mean_y'}, inplace=True)
-
-            # step B : calculation of the maximum deviation for each ID
-            df_merged = df_traj.merge(means, on='id_conservative')
-            # euclidean distance between each point and the mean position for its ID
-            df_merged['dist_to_mean'] = np.sqrt((df_merged['x'] - df_merged['mean_x'])**2 + (df_merged['y'] - df_merged['mean_y'])**2)
-            max_devs = df_merged.groupby('id_conservative')['dist_to_mean'].max().reset_index()
-            max_devs.rename(columns={'dist_to_mean': 'max_dev'}, inplace=True)
-
-            # regrouping the mean positions and the maximum deviations in a single DataFrame for easier processing in the next steps
-            id_stats = means.merge(max_devs, on='id_conservative')
-
-            # step C : Identify the centroids of the existing noise ("noise") instances
-            noise_ids = df_traj[df_traj['manual_annotation'] == 'noise']['id_conservative'].unique()
-            noise_stats = id_stats[id_stats['id_conservative'].isin(noise_ids)]
-            noise_centroids = noise_stats[['mean_x', 'mean_y']].values
-
-            ids_to_noise = []
-
-            # step D : Application of the logical rule
-            if len(noise_centroids) > 0:
-                for _, stat_row in id_stats.iterrows():
-                    id_val = stat_row['id_conservative']
-                    
-                    # If it's already a noise, we skip
-                    if id_val in noise_ids:
-                        continue 
-
-                    # Condition 1 : The maximum deviation is below the threshold (Ex: < 5 px)
-                    if stat_row['max_dev'] <= MAX_DEV_THRESHOLD:
-                        mean_pos = np.array([stat_row['mean_x'], stat_row['mean_y']])
-                        
-                        # Calculation of the distance to ALL known noises (not just the closest one) to ensure that we correctly identify IDs that are close to any noise instance, which could indicate that they are also noise and should be re-annotated accordingly.
-                        distances_to_noises = np.linalg.norm(noise_centroids - mean_pos, axis=1)
-                        
-                        # Condition 2 : is it close to at least one known noise centroid (Ex: < 30 px) ? If yes, we re-annotate it as "noise"
-                        if np.min(distances_to_noises) <= DIST_TO_NOISE_THRESHOLD:
-                            ids_to_noise.append(id_val)
-
-            # step E : updating DataFrame and saving the new CSV
-            if ids_to_noise:
-                df_traj.loc[df_traj['id_conservative'].isin(ids_to_noise), 'manual_annotation'] = 'noise'
-                print(f"{len(ids_to_noise)} ID(s) re-classé(s) en 'noise' dans la vidéo {os.path.basename(full_path)}")
-                compteur_modifies += 1
-            else:
-                print(f"➖ no new noise IDs found in {os.path.basename(full_path)}")
-
-            output_path = os.path.join(full_path, 'traj_copy_2.csv')
-            df_traj.to_csv(output_path, index=False)
-
-        except Exception as e:
-            print(f"error while loading {os.path.basename(full_path)} : {e}")
-            
-    print(f"\n done ! {compteur_modifies} videos modified and saved to 'traj_copy_2.csv'.")
+        new_path = folder / "traj_copy_2.csv"
+        df.to_csv(new_path, index=False)
+        print("Created:", new_path)
+    print("Done.")
 
 
 if __name__ == "__main__": # To prevent the function from running automatically when the file is imported somewhere else
@@ -707,4 +673,4 @@ if __name__ == "__main__": # To prevent the function from running automatically 
     #add_filtered_proportion('results.csv')
     #generate_histograms_all_videos('/Users/noursaad/Desktop/PTUT/results.csv')
     #generate_alternative_plots('/Users/noursaad/Desktop/PTUT/results.csv')
-    #apply_secondary_spatial_filter('/Users/noursaad/Desktop/PTUT/results.csv')
+    #clean_remaining_noise("/Users/benitaibrahim/Documents/PTUT/results_final_2.csv", position_threshold=5, movement_threshold=5)
