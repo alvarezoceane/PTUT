@@ -10,4 +10,4 @@ The project aims to apply ***Optimal Foraging Theory*** to simple non-visual org
 In this GitHub repository, you will find **folders** containing **the internship report** and **the project specifications**, as well as all **the code** and **output files** (CSV tables, histograms, and graphs) produced throughout the project.
 
 ##  Language
-Python served as the main programming language for the entire workflow, including data preprocessing, quality control, automated filtering, and the generation of all analytical outputs. The project was developed using Python 3.9+ and uses these libraries.
+**Python** served as the main programming language for the entire workflow, including data preprocessing, quality control, automated filtering, and the generation of all analytical outputs. The project was developed using Python 3.9+ and uses these libraries.
